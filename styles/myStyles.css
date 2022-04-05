@@ -1,0 +1,69 @@
+
+li{
+    font-style: normal;
+}
+
+.contactli{
+    border-bottom: 1px solid lightblue !important;
+}
+
+.bold{
+    font-weight: bold;
+    font-style: normal;
+}
+.italic{font-style: italic;}
+
+.noitalic{font-style: normal;}
+
+.center{text-align: center;}
+
+.revisedIntro{
+    right: 50px;
+    top: 200px;
+    width: 50px;
+    position: absolute;
+}
+
+body{
+    background-color: rgb(255, 255, 255,);
+    background-image: url(https://www.onlygfx.com/wp-content/uploads/2021/04/white-triangle-pattern-seamless-background-3.jpg);
+}
+
+
+.backgroundnavy{
+    background-color: navy !important;
+    color: white !important;
+   
+}
+
+.backgroundLight{
+    /*background-color: #e6a756 !important;*/
+    background-color: lightblue !important;
+    border: none;
+    color: white !important;
+    
+}
+
+.textWhite{
+    color: white !important;
+    
+}
+
+.textNavy{
+    color: navy !important;
+   
+}
+
+.myFont{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+a:visited{color: lightblue;}
+
+button:hover{
+    background-color: none;
+}
